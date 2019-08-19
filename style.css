@@ -1,0 +1,16 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 30px;
+}
+
+/* #header {
+    flex: 1;
+}
+
+#body {
+    flex: 3;
+} */
