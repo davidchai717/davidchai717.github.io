@@ -1,2 +1,2 @@
-# davidchailatte.github.io
+# davidchai717.github.io
 Personal site for David Chai
